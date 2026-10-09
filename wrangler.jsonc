@@ -109,10 +109,6 @@
 		}
 	],
 
-	// Logpush — emit trace events for Logpush to capture and send to R2.
-	// Requires Workers Paid plan ($5/month).
-	"logpush": true,
-
 	// Workers Logs — short-retention live tail in the Cloudflare dashboard.
 	"observability": {
 		"enabled": true
